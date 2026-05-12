@@ -1,5 +1,4 @@
-#Assignment 2
+# Assignment 2
 
-##Live Demo
-
+## Live Demo
 https://landing-page-assignment2.netlify.app/

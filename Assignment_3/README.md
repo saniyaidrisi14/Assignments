@@ -1,4 +1,4 @@
-#Assignment 3
+# Assignment 3
 
-## Live demo
+## Live Demo
 https://shinsei-landing-page-assignment3.netlify.app/
